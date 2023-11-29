@@ -25,10 +25,11 @@ The play store dataset provides information about various apps, including their 
 Requirements:
 To run the scripts in this repository, you need the following Python libraries:
 
-NumPy
-Pandas
-Matplotlib
-Seaborn
+>NumPy
+>Pandas
+>Matplotlib
+>Seaborn
+
 Contribution:
 If you would like to contribute to this project or suggest improvements, feel free to open an issue or create a pull request. Your feedback is valuable!
 
